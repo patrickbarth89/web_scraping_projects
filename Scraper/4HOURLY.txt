@@ -1,0 +1,26 @@
+
+Engadget
+    http://www.engadget.com
+    root_div_class:blogroll
+    runid:4hour
+
+Engadget Espagnol
+    http://es.engadget.com
+    root_div_class:content
+    runid:4hour
+
+Dangerous Prototypes
+    http://dangerousprototypes.com/
+    root_div_id:content-area
+    runid:4hour
+
+__END__
+
+Grenoble Startup Weekend [SIGNUP]
+    http://www.eventbrite.com/event/3614159047
+    when:DAILY(20h)
+    proc:CODE_200
+
+
+    when:WEEKLY(FRIDAY 20h)
+    
